@@ -1,0 +1,5 @@
+
+.DS_Store
+src/medicalDatasets/diabetes/diabetes.csv
+src/medicalDatasets/cervicalCancer/cervicalCancer.csv
+src/medicalDatasets/ckd/ckd.csv
